@@ -1,0 +1,12 @@
+{
+  "MailSettings": {
+    "ToAddress": "brad@berkobien.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Initial Catalog=TheWorldDB;MultipleActiveResultSets=true;Trusted_Connection=true"
+  },
+
+  "Keys": {
+    "BingKey": "Ag1bQVPbUw4V1XVP-ZSaSll4vQurBNF9SwrpKHPj9csbDI2rIIjjvIYKxsEFtZEt"
+  }
+}
